@@ -42,3 +42,5 @@ WARNING: Once the ownership has been changed you will be locked out of most func
 
 ![](Images/MediaSpace08.png?raw=true)
 
+-----
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
