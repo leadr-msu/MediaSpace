@@ -1,9 +1,9 @@
 # MediaSpace Introductory Resources
-_Prepared by Daniel Fandino_
+_Prepared by Daniel Fandino with contribution by Brian Geyer_
 
 ## Uploading Files to MediaSpace and Changing Ownership
 
-Navigate to [mediaspace.msu.edu](mediaspace.msu.edu) and log in. Login is located by selecting the Guest button.
+Navigate to [mediaspace.msu.edu](https://mediaspace.msu.edu) and log in. Login is located by selecting the Guest button.
 
 ![](Images/MediaSpace01.png?raw=true)
 
